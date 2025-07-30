@@ -3,7 +3,7 @@
   <h3>Full Stack Developer | AI Enthusiast | Tech Innovator | Undergraduate 🚀</h3>
   <p>Welcome to my GitHub! I'm passionate about crafting <strong>web</strong> and <strong>mobile applications</strong>, exploring <strong>AI</strong>, and building innovative solutions. Let's create something extraordinary together! 😎</p>
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
 
   <p>
     <a href="https://linkedin.com/in/adeepak2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
