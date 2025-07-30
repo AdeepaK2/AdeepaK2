@@ -1,75 +1,93 @@
-# Hi there! 👋 I'm **AdeepaK2**
+<div align="center">
+  <h1>Hi there! 👋 I'm <strong>AdeepaK2</strong></h1>
+  <h3>Full Stack Developer | AI Enthusiast | Tech Innovator | Undergraduate 🚀</h3>
+  <p>Welcome to my GitHub! I'm passionate about crafting <strong>web</strong> and <strong>mobile applications</strong>, exploring <strong>AI</strong>, and building innovative solutions. Let's create something extraordinary together! 😎</p>
 
-### Full Stack Developer | AI Enthusiast | Tech Innovator | Open Source Contributor 🚀
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="400"/>
 
-Welcome to my GitHub! I’m a passionate software engineer who loves working on **web** and **mobile applications**. I enjoy experimenting with **JavaScript**, **AI**, and cutting-edge technologies. If you want to collaborate, just shoot me a message! 😊
-
-![AdeepaK2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeepaK2&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
+  <p>
+    <a href="https://linkedin.com/in/adeepak2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+    <a href="mailto:adeepak2@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
+    <a href="https://adeepa.rocks"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=firefox"/></a>
+  </p>
+</div>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Frontend:
-- **React.js** | **Next.js** | **JavaScript** | **TypeScript** | **HTML** | **CSS** | **SASS**
-- **Tailwind CSS** | **Material UI** | **Styled Components**
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) 
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui)
 
-### Backend:
-- **Node.js** | **Express.js** | **MongoDB** | **Firebase**
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 
-### Mobile Development:
-- **Flutter** | **Dart**
+### Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) 
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 
-### AI & Machine Learning:
-- **Python** | **TensorFlow** | **Keras** | **OpenCV**
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) 
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
 ---
 
 ## 💡 About Me
 
-I’m always learning and exploring new technologies. When I’m not building cool stuff, I’m diving deep into **AI**, **machine learning**, and experimenting with new frameworks and libraries. Whether it’s developing **user-friendly** web apps or creating a solution with **AI**, I’m passionate about building things that solve real-world problems.
-
----
-
-## 🎨 Cool Animation Just For You! 🌟
-
-Here’s something fun to make your visit more interactive! 😎
-
-![Cool Animation](https://media.giphy.com/media/3o6ZsU2aNxkMjw6DX2/giphy.gif)
+I'm an undergraduate with a passion for building **user-centric web and mobile applications**. My interests span **full-stack development**, **AI**, and **machine learning**, and I’m always experimenting with new frameworks and technologies. When I’m not coding, you’ll find me exploring **music**, learning new instruments, or contributing to **open-source projects**. I believe in solving real-world problems through technology and collaboration.
 
 ---
 
 ## 📈 GitHub Stats
 
-![AdeepaK2's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeepaK2&langs_count=10&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdeepaK2&show_icons=true&count_private=true&theme=radical&hide=prs" alt="AdeepaK2's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeepaK2&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 📝 How to Reach Me
+## 🌟 Fun Animation
 
-- 💬 **LinkedIn**: [AdeepaK2](https://linkedin.com/in/adeepak2)
-- 📧 **Email**: [adeepak2@example.com](mailto:adeepak2@example.com)
-- 🌐 **Website**: [adeepa.rocks](https://adeepa.rocks)
+Enjoy this dynamic animation to brighten your day! 🚀
 
----
-
-## 🎨 Fun Facts
-- I’m a **music lover**, and I spend my free time learning new instruments 🎶
-- Passionate about building **AI-powered systems** to enhance productivity 🤖
-- I love **open-source contributions** and collaborating with fellow developers 🌍
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Fun Animation" width="300"/>
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to contributing to open-source projects and exploring new ideas. If you have a project in mind or just want to chat about technology, feel free to reach out!
+I’m always excited to work on **open-source projects** or innovative ideas. Have a project in mind? Want to discuss tech or AI? Reach out, and let’s build something amazing together!
 
-![Collaborate](https://media.giphy.com/media/3o6ZsU2aNxkMjw6DX2/giphy.gif)
+<div align="center">
+  <a href="https://linkedin.com/in/adeepak2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:adeepak2@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://adeepa.rocks"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=firefox"/></a>
+</div>
 
 ---
 
-#### P.S. I believe that **collaboration** is the key to building better solutions. Let’s create something amazing together! 🚀
+## 🎉 Fun Facts
+- 🎶 Avid **music enthusiast** and aspiring instrumentalist.
+- 🤖 Building **AI-powered tools** to boost productivity.
+- 🌍 Active contributor to **open-source communities**.
 
 ---
 
-### *Want to join the community? Check out my other open-source projects!*
+<div align="center">
+  <h3>✨ Check out my projects below and let’s create something awesome together! ✨</h3>
+  <img src="https://media.giphy.com/media/3o7aDcz7LmkzW8Zf2w/giphy.gif" alt="Collaboration Animation" width="250"/>
+</div>
