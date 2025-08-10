@@ -73,9 +73,9 @@ Enjoy this dynamic animation to brighten your day! 🚀
 I’m always excited to work on **open-source projects** or innovative ideas. Have a project in mind? Want to discuss tech or AI? Reach out, and let’s build something amazing together!
 
 <div align="center">
-  <a href="https://linkedin.com/in/adeepak2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:adeepak2@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://adeepa.rocks"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=firefox"/></a>
+  <a href="https://www.linkedin.com/in/adeepakularathna/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:kularathnaggas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://adeepa.tech"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=firefox"/></a>
 </div>
 
 ---
