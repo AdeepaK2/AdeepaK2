@@ -58,34 +58,6 @@ I'm an undergraduate with a passion for building **user-centric web and mobile a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeepaK2&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-## 🌟 Fun Animation
-
-Enjoy this dynamic animation to brighten your day! 🚀
-
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Fun Animation" width="300"/>
-
----
-
-## 🤝 Let's Collaborate!
-
-I’m always excited to work on **open-source projects** or innovative ideas. Have a project in mind? Want to discuss tech or AI? Reach out, and let’s build something amazing together!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adeepakularathna/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:kularathnaggas@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://adeepa.tech"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=firefox"/></a>
-</div>
-
----
-
-## 🎉 Fun Facts
-- 🎶 Avid **music enthusiast** and aspiring instrumentalist.
-- 🤖 Building **AI-powered tools** to boost productivity.
-- 🌍 Active contributor to **open-source communities**.
-
----
 
 <div align="center">
   <h3>✨ Check out my projects below and let’s create something awesome together! ✨</h3>
