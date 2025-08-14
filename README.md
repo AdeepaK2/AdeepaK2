@@ -59,7 +59,3 @@ I'm an undergraduate with a passion for building **user-centric web and mobile a
 </div>
 
 
-<div align="center">
-  <h3>✨ Check out my projects below and let’s create something awesome together! ✨</h3>
-  <img src="https://media.giphy.com/media/3o7aDcz7LmkzW8Zf2w/giphy.gif" alt="Collaboration Animation" width="250"/>
-</div>
